@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.exe
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.deps.json
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.runtimeconfig.json
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.dll
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.pdb
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.AssemblyInfo.cs
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.dll
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\refint\Week8EpicGame.dll
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.pdb
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.genruntimeconfig.cache
+D:\UNI\Visual projects\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\ref\Week8EpicGame.dll
